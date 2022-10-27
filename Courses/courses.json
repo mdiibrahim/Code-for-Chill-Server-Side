@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "courseName": "C"
+    },
+    {
+        "id": 2,
+        "courseName": "Java"
+    },
+    {
+        "id": 3,
+        "courseName": "JavaScript"
+    },
+    {
+        "id": 4,
+        "courseName": "PHP"
+    },
+    {
+        "id": 5,
+        "courseName": "Python"
+    },
+    {
+        "id": 6,
+        "courseName": "R"
+    }
+    
+]
